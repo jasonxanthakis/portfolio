@@ -1,0 +1,16 @@
+# Ignore virtual environment folders (Python)
+venv/
+env/
+dataenv1/
+
+# Ignore dependency directories
+node_modules/
+__pycache__/
+.idea/
+.vscode/
+
+# Ignore support scripts
+kaggle_api_script.ipynb
+
+# Ignore datasets
+Video_Game_Sales_Analysis/archive
