@@ -20,7 +20,6 @@ Here are some of my favorite projects:
 Feel free to connect with me:
 - [GitHub](https://github.com/jasonxanthakis)
 - [LinkedIn](https://linkedin.com/in/jason-xanthakis)
-- [Email](mailto:iasonas.xanthakis@gmail.com)
 
 ---
 
